@@ -1,0 +1,24 @@
+{
+  "name": "crisps",
+  "version": "1.0.2",
+  "description": "Cisps? Eat",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iyeholding/Crisps.js.git"
+  },
+  "keywords": [
+    "crisp",
+    "crisps",
+    "eat"
+  ],
+  "author": "IYEHolding",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iyeholding/Crisps.js/issues"
+  },
+  "homepage": "https://github.com/Iyeholding/Crisps.js#readme"
+}
